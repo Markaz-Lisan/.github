@@ -10,7 +10,7 @@
 
 ### تعليم
 
-[![منهج التعليم](https://img.shields.io/badge/المنهج-ffffff)](https://lisan.center/ja)
+[![منهج التعليم](https://img.shields.io/badge/المنهج-ffffff)](https://ja.lisan.center)
 [![بطاقات الكلمات](https://img.shields.io/badge/البطاقات-ff2600)](https://quizlet.com/Assayyaad/folders/128021748)
 
 ### قنوات
